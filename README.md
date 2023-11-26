@@ -14,9 +14,9 @@ https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/as
 
 
 
-For the moile application I have used flutter along with google firebase - RTDB & Authentication and Bing Maps APIs to make a robust backend architecture along with a seamless frontend - user interface.<br />
--> Firebase RTDB conducts data acquisition and analytics of the sensory and classification result values sent by the hardware-embedded application.<br />  
--> Authentication feature of Firebase allows access to registered users only and keeps a track of the activity.<br />  
+For the moile application I have used flutter along with google firebase - RTDB & Authentication and Bing Maps APIs to make a robust backend architecture along with a seamless frontend - user interface.<br />  
+-> Firebase RTDB conducts data acquisition and analytics of the sensory and classification result values sent by the hardware-embedded application.<br />
+-> Authentication feature of Firebase allows access to registered users only and keeps a track of the activity.<br />
 -> The Bing Maps API locates the co-ordinates at which the species was spotted and marks it with a map-marker around the vicinity of the device.
 
 # Initial & Final Casings
