@@ -5,7 +5,7 @@ Pages -
 SignIn -> Home -> Map <br />  
 Register -> Home -> Map
 
-
+https://github.com/AbhayB156/Wildlife-Solution_AI4G/assets/99198602/2e5c3bfc-9caf-406b-96b3-3ea37ae5ec0d
 https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/assets/99198602/617c0cd6-42ad-4de4-8ab6-8d31f69ff4fe
 
 
