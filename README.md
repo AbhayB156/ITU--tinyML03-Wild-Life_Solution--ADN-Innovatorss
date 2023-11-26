@@ -8,6 +8,10 @@ Register -> Home -> Map
 https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/assets/99198602/617c0cd6-42ad-4de4-8ab6-8d31f69ff4fe
 
 
+https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/assets/99198602/efd79697-24e7-4148-aa48-69c3e29e6974
+
+
+
 For the moile application I have used flutter along with google firebase - RTDB & Authentication and Bing Maps APIs to make a robust backend architecture along with a seamless frontend - user interface.<br />
 -> Firebase RTDB conducts data acquisition and analytics of the sensory and classification result values sent by the hardware-embedded application.<br />  
 -> Authentication feature of Firebase allows access to registered users only and keeps a track of the activity.<br />  
