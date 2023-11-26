@@ -4,10 +4,10 @@ Final Submission for ITU-tinyML 2023 Challenge by AI4G: Contents - Final ML mode
 Pages - 
 SignIn -> Home -> Map <br />  
 Register -> Home -> Map
-
+Latest Iteration
 https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/assets/99198602/617c0cd6-42ad-4de4-8ab6-8d31f69ff4fe
 
-
+Preliminary Iteration - (This depects the multidevice architecture)
 https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/assets/99198602/efd79697-24e7-4148-aa48-69c3e29e6974
 
 
