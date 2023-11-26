@@ -2,7 +2,7 @@
 Final Submission for ITU-tinyML 2023 Challenge by AI4G: Contents - Final ML model, CAD model, Final Report, Mobile Application apk(ready to install app)
 # Mobile Application
 Pages - 
-SignIn -> Home -> Map<br />
+SignIn -> Home -> Map <br />  
 Register -> Home -> Map
 
 
