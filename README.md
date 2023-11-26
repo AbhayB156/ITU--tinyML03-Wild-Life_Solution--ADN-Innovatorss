@@ -29,3 +29,7 @@ By the final iteration the exact device dimensions were determined and a protect
 ->The model architecture is supported by Tensorflow Lite and has proven to be highly efficient as demonstrated in the demo videos.<br />
 ->It's crossplatform deployability is also evident by the seamless integration with Mobile App.<br />
 ->Their is potential for a product deployment as an ebtire architecture.
+
+
+https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/assets/99198602/b2f56db2-2e5a-4c99-9dd8-de953b11a697
+
