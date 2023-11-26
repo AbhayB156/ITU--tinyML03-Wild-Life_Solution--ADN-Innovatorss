@@ -28,7 +28,7 @@ By the final iteration the exact device dimensions were determined and a protect
 # ML Model
 
 
-https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/assets/99198602/0a25c7ad-4542-4229-b595-c270aa503138
+https://github.com/AbhayB156/ITU--tinyML03-Wild-Life_Solution--ADN_Innovators/assets/99198602/2e6c79de-f3a1-4acf-9bf7-6e3a7d33ea41
 
 
 ->The model architecture is supported by Tensorflow Lite and has proven to be highly efficient as demonstrated in the demo videos.<br />
